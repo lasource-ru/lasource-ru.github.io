@@ -11,7 +11,7 @@
                 <em:id>{ec8030f7-c20a-464f-9b0e-13a3a9e97384}</em:id>
                 <em:minVersion>24.0</em:minVersion>
                 <em:maxVersion>46.0</em:maxVersion>
-                <em:updateLink>https://lasource-ru.github.io/lasource_mpx-1.0.1-fx.xpi</em:updateLink>
+                <em:updateLink>https://github.com/lasource-ru/lasource-ru.github.io/releases/download/1.0.1/lasource_mpx-1.0.1-fx.xpi</em:updateLink>
               </RDF:Description>
             </em:targetApplication>
           </RDF:Description>
